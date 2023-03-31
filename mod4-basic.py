@@ -36,6 +36,6 @@ def body_mass_index(weight, height):
     bmi = weight_kg / (height_m ** 2)
     return bmi
 # test
-weight = [input value here]
-height = [[input value here], [input value here]]
-print(body_mass_index(weight, height))
+# weight = [input value here]
+# height = [[input value here], [input value here]]
+# print(body_mass_index(weight, height))
